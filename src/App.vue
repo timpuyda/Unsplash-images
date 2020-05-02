@@ -40,13 +40,8 @@
 <script>
   console.clear()
 
- //  import Unsplash, { toJson } from 'unsplash-js';
- //  const unsplash = new Unsplash(
- //  {
- //   accessKey: "31Cs_Axm7WmgZo_wT71m3eKc4sjyEz74yxmt4j1n4wU"
- // }
- // );
- let appId = "31Cs_Axm7WmgZo_wT71m3eKc4sjyEz74yxmt4j1n4wU"
+
+ let appId = "Access-Key"
 export default {
   name: 'App',
   data(){
